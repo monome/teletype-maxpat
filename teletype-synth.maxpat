@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 6,
+			"revision" : 5,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 446.0, 44.0, 951.0, 678.0 ],
+		"rect" : [ 395.0, 44.0, 951.0, 678.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -310,7 +310,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -1035,7 +1035,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -1760,7 +1760,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -2485,7 +2485,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -3210,7 +3210,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -3935,7 +3935,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -4660,7 +4660,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -5385,7 +5385,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -6110,7 +6110,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -6835,7 +6835,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -7560,7 +7560,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -8537,7 +8537,7 @@
 					"presentation_linecount" : 3,
 					"presentation_rect" : [ 40.0, 540.0, 231.0, 67.0 ],
 					"rounded" : 0.0,
-					"text" : "param fm-index 127;\rnote trans 0;\rnote prev 1;",
+					"text" : "param fm-index 127;\rnote trans 0;\rnote prev 1;\r",
 					"varname" : "text-0-0[7]"
 				}
 
@@ -8556,7 +8556,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -8842,7 +8842,7 @@
 					"presentation_linecount" : 4,
 					"presentation_rect" : [ 40.0, 465.0, 231.0, 67.0 ],
 					"rounded" : 0.0,
-					"text" : "param fm-index slew 2000;\nparam fm-index rand 30 80;\rnote trans -12;\rnote 6;\r",
+					"text" : "param fm-index slew 2000;\rparam fm-index rand 30 80;\rnote trans -12;\rnote 6;\r",
 					"varname" : "text-0-0[6]"
 				}
 
@@ -8861,7 +8861,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -9147,7 +9147,7 @@
 					"presentation_linecount" : 5,
 					"presentation_rect" : [ 40.0, 390.0, 231.0, 67.0 ],
 					"rounded" : 0.0,
-					"text" : "param env-len 6;\nparam env-slope 2;\rparam fm-mod 20;\nparam wave rand 0 127;\rnote prev 2;\r",
+					"text" : "param env-len 6;\rparam env-slope 2;\rparam fm-mod 20;\rparam wave rand 0 127;\rnote prev 2;\r",
 					"varname" : "text-0-0[5]"
 				}
 
@@ -9166,7 +9166,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -9452,7 +9452,7 @@
 					"presentation_linecount" : 2,
 					"presentation_rect" : [ 40.0, 314.0, 231.0, 67.0 ],
 					"rounded" : 0.0,
-					"text" : "note next 2;\rparam f-cutoff rand 5 40;",
+					"text" : "note next 2;\rparam f-cutoff rand 5 40;\r",
 					"varname" : "text-0-0[4]"
 				}
 
@@ -9471,7 +9471,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -9757,7 +9757,7 @@
 					"presentation_linecount" : 5,
 					"presentation_rect" : [ 40.0, 240.0, 231.0, 67.0 ],
 					"rounded" : 0.0,
-					"text" : "param env-len 110;\nparam env-slope 126;\nparam f-cutoff 50;\nparam fm-mod rand 40 90;\nnote 4;\r",
+					"text" : "param env-len 110;\rparam env-slope 126;\rparam f-cutoff 50;\rparam fm-mod rand 40 90;\rnote 4;\r",
 					"varname" : "text-0-0[3]"
 				}
 
@@ -9776,7 +9776,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -10062,7 +10062,7 @@
 					"presentation_linecount" : 2,
 					"presentation_rect" : [ 40.0, 165.0, 231.0, 67.0 ],
 					"rounded" : 0.0,
-					"text" : "note next 2;\rparam fm-mod 80;",
+					"text" : "note next 2;\rparam fm-mod 80;\r",
 					"varname" : "text-0-0[2]"
 				}
 
@@ -10081,7 +10081,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -10386,7 +10386,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -10646,7 +10646,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -10976,7 +10976,7 @@
 					"presentation_linecount" : 2,
 					"presentation_rect" : [ 40.0, 15.0, 231.0, 67.0 ],
 					"rounded" : 0.0,
-					"text" : "param f-cutoff slew 200;\nparam f-cutoff inc 8;",
+					"text" : "param f-cutoff slew 200;\rparam f-cutoff inc 8;\r",
 					"varname" : "text-0-0[0]"
 				}
 
@@ -10995,7 +10995,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -11298,7 +11298,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -11682,11 +11682,11 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
-						"rect" : [ 690.0, 44.0, 472.0, 678.0 ],
+						"rect" : [ 690.0, 44.0, 453.0, 450.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 1,
 						"default_fontsize" : 12.0,
@@ -11715,10 +11715,10 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 21.0, 624.0, 420.0, 33.0 ],
+									"patching_rect" : [ 36.0, 639.0, 420.0, 33.0 ],
 									"presentation" : 1,
 									"presentation_linecount" : 2,
-									"presentation_rect" : [ 21.0, 636.0, 420.0, 33.0 ],
+									"presentation_rect" : [ 18.0, 401.0, 420.0, 33.0 ],
 									"text" : "this allows for some pretty weird stuff. this is maybe enough information to get you started."
 								}
 
@@ -11732,9 +11732,9 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 58.0, 591.0, 389.0, 20.0 ],
+									"patching_rect" : [ 73.0, 606.0, 389.0, 20.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 58.0, 603.0, 389.0, 20.0 ],
+									"presentation_rect" : [ 55.0, 368.0, 389.0, 20.0 ],
 									"text" : "preset 1;"
 								}
 
@@ -11749,10 +11749,10 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 21.0, 543.0, 420.0, 33.0 ],
+									"patching_rect" : [ 36.0, 558.0, 420.0, 33.0 ],
 									"presentation" : 1,
 									"presentation_linecount" : 2,
-									"presentation_rect" : [ 21.0, 555.0, 420.0, 33.0 ],
+									"presentation_rect" : [ 18.0, 320.0, 420.0, 33.0 ],
 									"text" : "presets store pretty much everything. they can be manually recalled or recalled with an event:"
 								}
 
@@ -11767,11 +11767,11 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 21.0, 466.0, 426.0, 60.0 ],
+									"patching_rect" : [ 36.0, 481.0, 426.0, 60.0 ],
 									"presentation" : 1,
 									"presentation_linecount" : 4,
-									"presentation_rect" : [ 21.0, 483.0, 426.0, 60.0 ],
-									"text" : "note index 4 refers to the 4th note (from low to high) selected the tone series (highlighted keys on the keyboard). cc a is assigned to the cc number in the first column. the sliders represent the current value."
+									"presentation_rect" : [ 18.0, 248.0, 417.0, 60.0 ],
+									"text" : "note index 4 refers to the 4th note (from low to high) selected in the tone series (highlighted keys on the keyboard). cc a is assigned to the top listed slider. the sliders represent the current value."
 								}
 
 							}
@@ -11785,11 +11785,11 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 21.0, 407.0, 426.0, 60.0 ],
+									"patching_rect" : [ 36.0, 422.0, 433.0, 60.0 ],
 									"presentation" : 1,
 									"presentation_linecount" : 4,
-									"presentation_rect" : [ 21.0, 410.0, 429.0, 60.0 ],
-									"text" : "this event happens when the puck changes direction eastwards, sounding note index 4 and creating a cc value between 50 and 100 on cc channel a, and a 50% probability of playing a random note."
+									"presentation_rect" : [ 18.0, 175.0, 423.0, 60.0 ],
+									"text" : "this event happens when the the first meadowphysics row is triggered, sounding note index 4 and creating a cc value between 50 and 100 on cc channel a, and a 50% probability of playing a random note."
 								}
 
 							}
@@ -11803,10 +11803,10 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 52.0, 359.0, 389.0, 47.0 ],
+									"patching_rect" : [ 67.0, 374.0, 389.0, 47.0 ],
 									"presentation" : 1,
 									"presentation_linecount" : 3,
-									"presentation_rect" : [ 52.0, 347.0, 389.0, 47.0 ],
+									"presentation_rect" : [ 49.0, 112.0, 389.0, 47.0 ],
 									"text" : "note 4;\ncc a rand 50 100;\np 50 note rand note;"
 								}
 
@@ -11820,9 +11820,9 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 21.0, 322.0, 420.0, 20.0 ],
+									"patching_rect" : [ 36.0, 337.0, 420.0, 20.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 21.0, 310.0, 420.0, 20.0 ],
+									"presentation_rect" : [ 18.0, 75.0, 420.0, 20.0 ],
 									"text" : "an example event, say in the top-left box:"
 								}
 
@@ -11833,69 +11833,13 @@
 									"fontsize" : 12.0,
 									"frgb" : 0.0,
 									"id" : "obj-11",
-									"linecount" : 4,
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 21.0, 243.0, 441.0, 60.0 ],
+									"patching_rect" : [ 36.0, 258.0, 441.0, 20.0 ],
 									"presentation" : 1,
-									"presentation_linecount" : 4,
-									"presentation_rect" : [ 21.0, 231.0, 441.0, 60.0 ],
-									"text" : "the actual data per event is open-ended, determined by the grid of text boxes. the top box per column is the first event upon direction change. you can type several lines per event."
-								}
-
-							}
-, 							{
-								"box" : 								{
-									"fontname" : "Andale Mono",
-									"fontsize" : 12.0,
-									"frgb" : 0.0,
-									"id" : "obj-10",
-									"linecount" : 2,
-									"maxclass" : "comment",
-									"numinlets" : 1,
-									"numoutlets" : 0,
-									"patching_rect" : [ 21.0, 194.0, 426.0, 33.0 ],
-									"presentation" : 1,
-									"presentation_linecount" : 2,
-									"presentation_rect" : [ 21.0, 182.0, 426.0, 33.0 ],
-									"text" : "data is generated by direction changes and the subsequent four moves."
-								}
-
-							}
-, 							{
-								"box" : 								{
-									"fontname" : "Andale Mono",
-									"fontsize" : 12.0,
-									"frgb" : 0.0,
-									"id" : "obj-9",
-									"linecount" : 3,
-									"maxclass" : "comment",
-									"numinlets" : 1,
-									"numoutlets" : 0,
-									"patching_rect" : [ 21.0, 125.0, 426.0, 47.0 ],
-									"presentation" : 1,
-									"presentation_linecount" : 3,
-									"presentation_rect" : [ 21.0, 113.0, 426.0, 47.0 ],
-									"text" : "hit \"step\" to process one round or activate \"cycle\" for a timed step. \"size\" is the time between events determined by note length. the global transport controls tempo etc."
-								}
-
-							}
-, 							{
-								"box" : 								{
-									"fontname" : "Andale Mono",
-									"fontsize" : 12.0,
-									"frgb" : 0.0,
-									"id" : "obj-6",
-									"linecount" : 4,
-									"maxclass" : "comment",
-									"numinlets" : 1,
-									"numoutlets" : 0,
-									"patching_rect" : [ 21.0, 56.0, 433.0, 60.0 ],
-									"presentation" : 1,
-									"presentation_linecount" : 4,
-									"presentation_rect" : [ 21.0, 44.0, 433.0, 60.0 ],
-									"text" : "the basic idea: moving puck in a maze. push a key quickly to jump to this position. push and briefly hold keys to create \"blocks\" which cause the puck to bounce in a random direction."
+									"presentation_rect" : [ 18.0, 50.0, 402.0, 20.0 ],
+									"text" : "every received event can trigger multiple actions."
 								}
 
 							}
@@ -11908,9 +11852,9 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 21.0, 20.0, 150.0, 20.0 ],
+									"patching_rect" : [ 36.0, 35.0, 150.0, 20.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 21.0, 8.0, 150.0, 20.0 ],
+									"presentation_rect" : [ 18.0, 13.0, 150.0, 20.0 ],
 									"text" : "seriously what?"
 								}
 
@@ -12177,7 +12121,7 @@
 					"fontsize" : 12.0,
 					"id" : "obj-195",
 					"maxclass" : "number",
-					"maximum" : 11,
+					"maximum" : 77,
 					"minimum" : 0,
 					"numinlets" : 1,
 					"numoutlets" : 2,
@@ -12434,7 +12378,7 @@
 					}
 ,
 					"text" : "autopattr",
-					"varname" : "u502001569"
+					"varname" : "u408004884"
 				}
 
 			}
@@ -12454,7 +12398,6 @@
 			}
 , 			{
 				"box" : 				{
-					"autorestore" : "meadowphysics.json",
 					"fontname" : "Andale Mono",
 					"fontsize" : 12.0,
 					"id" : "obj-139",
@@ -12470,7 +12413,7 @@
 					}
 ,
 					"text" : "pattrstorage",
-					"varname" : "u463001531"
+					"varname" : "u371004846"
 				}
 
 			}
@@ -12506,7 +12449,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -13231,7 +13174,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -13956,7 +13899,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 6,
+							"revision" : 5,
 							"architecture" : "x86"
 						}
 ,
@@ -14714,13 +14657,13 @@
 					"fontname" : "Andale Mono",
 					"fontsize" : 12.0,
 					"id" : "obj-89",
-					"linecount" : 2,
+					"linecount" : 12,
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 795.5, 124.5, 160.0, 31.0 ],
-					"text" : "55 60 65 67 72 75 77 79 80 84 101 103"
+					"text" : "55 55 55 55 55 55 55 55 55 55 55 55 60 60 60 60 60 60 60 60 60 60 60 65 65 65 65 65 65 65 65 65 65 67 67 67 67 67 67 67 67 67 72 72 72 72 72 72 72 72 75 75 75 75 75 75 75 77 77 77 77 77 77 79 79 79 79 79 80 80 80 80 84 84 84 101 101 103"
 				}
 
 			}
@@ -16048,22 +15991,15 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "meadowphysics.json",
-				"bootpath" : "/Users/tehn/Desktop",
-				"patcherrelativepath" : "../../../Desktop",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "sumsynth.maxpat",
-				"bootpath" : "/Users/tehn/Work/max/teletype",
+				"bootpath" : "/Users/Trent/Documents/Monome/teletype",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "poly.sumsynth~.maxpat",
-				"bootpath" : "/Users/tehn/Work/max/teletype",
+				"bootpath" : "/Users/Trent/Documents/Monome/teletype",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
