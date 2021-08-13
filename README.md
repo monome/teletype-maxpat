@@ -2,8 +2,6 @@
 
 event script typing magic
 
-https://github.com/monome/teletype/releases/latest
-
 ![](teletype.png)
 
 
